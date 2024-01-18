@@ -366,7 +366,7 @@
 
 @keyframes animStar{
   from {
-    transform: translateY(50px)
+    transform: translateY(1000px)
   }
   to{
     transform: translateY(-400px)
@@ -375,10 +375,10 @@
 
 @keyframes animStar2{
   from {
-    transform: translateY(150px)
+    transform: translateY(1000px)
   }
   to{
-    transform: translateY(-400px)
+    transform: translateY(-150px)
   }
 }
   
